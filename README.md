@@ -10,3 +10,5 @@ How do these cycles connect to the key indicators of the Federal interest rates?
 
 ## Visualization
 https://public.tableau.com/views/USAnnualHousingSalesRevenue/Revenue?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/USAnnualHousingSalesChange/Change?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
