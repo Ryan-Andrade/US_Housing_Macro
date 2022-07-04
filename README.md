@@ -1,6 +1,7 @@
 # US_Housing_Macro
 
 I am trying to gain a deeper insight into how inflation and fed rate hikes will impact the housing market.
+Data is collected from the US Census Bureau https://www.census.gov/construction/nrs/historical_data/index.html.
 
 Questions to answer:
 
